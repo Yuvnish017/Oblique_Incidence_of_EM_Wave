@@ -8,11 +8,7 @@ Contents :-
 				1. SimulationFile.m - MATLAB code for simulation
 				2. SimulationFile_LiveScript.mlx - Live Editor file of MATLAB 
 				3. app.mlapp = application designed using MATLAB App Designer for plotting results fro different parameters
-				4. perpendicular_polarization_electric_field.png - variation of total electric field in case of perpendicular polarization for medium having relative permitivity of 4, relative
-				  																								 permeability of 4, amplitude of incident electric field 4V/m and incident angle of pi/3
-				5. perpendicular_polarization_magnetic_field.png - variation of total magnetic field in case of perpendicular polarization for medium having relative permitivity of 4, relative
-				  																								 permeability of 4, amplitude of incident electric field 4V/m and incident angle of pi/3
-				6. parallel_polarization_electric_field.png - variation of total electric field in case of parallel polarization for medium having relative permitivity of 4, relative
-				  																								 permeability of 4, amplitude of incident electric field 4V/m and incident angle of pi/3
-				7. parallel_polarization_magnetic_field.png - variation of total magnetic field in case of parallel polarization for medium having relative permitivity of 4, relative
-				  																								 permeability of 4, amplitude of incident electric field 4V/m and incident angle of pi/3
+				4. perpendicular_polarization_electric_field.png - variation of total electric field in case of perpendicular polarization for medium having                                                                                          relative permitivity of 4, relative permeability of 4, amplitude of incident electric field 4V/m                                                                                    and incident angle of pi/3
+				5. perpendicular_polarization_magnetic_field.png - variation of total magnetic field in case of perpendicular polarization for medium having                                                                                          relative permitivity of 4, relative permeability of 4, amplitude of incident electric field 4V/m                                                                                    and incident angle of pi/3
+				6. parallel_polarization_electric_field.png - variation of total electric field in case of parallel polarization for medium having relative                                                                                       permitivity of 4, relative permeability of 4, amplitude of incident electric field 4V/m and incident                                                                               angle of pi/3
+				7. parallel_polarization_magnetic_field.png - variation of total magnetic field in case of parallel polarization for medium having relative                                                                                       permitivity of 4, relative permeability of 4, amplitude of incident electric field 4V/m and incident                                                                               angle of pi/3
